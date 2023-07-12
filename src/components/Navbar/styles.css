@@ -1,0 +1,36 @@
+#navbar {
+    padding: 24px;
+    background-color: #121212;
+}
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search {
+    padding: 8px;
+    outline: none;
+    border: none;
+    border-bottom:1px solid #F7D354;
+    background: transparent;
+    color: #fff;
+}
+
+.search__btn {
+    margin-left: 16px;
+    padding: 6px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #F7D354;
+    transition: .3s ease;
+}
+
+.search__btn:hover {
+    color: #F7D354;
+    background:transparent;
+    border: 1px solid #F7D354;
+
+}

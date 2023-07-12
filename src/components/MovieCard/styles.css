@@ -1,0 +1,10 @@
+.movie-card {
+    padding: 8px;
+    background-color: #252424;
+    max-width: 400px;
+    width: 100%;
+}
+
+.movie-card img {
+    width: 100%;
+}

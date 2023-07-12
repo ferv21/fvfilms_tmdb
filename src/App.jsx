@@ -10,7 +10,6 @@ function App() {
   return (
     <>
       <div className="App">
-        <h1>FV Films</h1>
         <Navbar/>
         <Outlet/>
       </div>
